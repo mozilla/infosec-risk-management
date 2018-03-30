@@ -7,3 +7,10 @@ Their quote:
 
 
 See also (*Staff Confidential access required*): https://docs.google.com/document/d/1-L5xd2LfztrEWPLCQq6ng_ENcXPs19odtndUDOI24Vg/edit#
+
+
+Looking for more? Our risk assessment documentation is located at https://infosec.mozilla.org/#risk-assessment
+
+You can also find stand-alone API glue at these locations:
+- https://github.com/gdestuynder/rra2json
+- https://github.com/gdestuynder/rra3json
